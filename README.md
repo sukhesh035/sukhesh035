@@ -1,25 +1,27 @@
 ### Hi There!
 
-My name is Sukhesh Gopaluni, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. 
+My name is Sukhesh Gopaluni, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
 ### Programming Languages and Frameworks
 
 - Languages I know
 
-|  [<img src="https://raw.githubusercontent.com/guiguan/autocomplete-javascript/master/images/javascript.png" width="70">](https://www.javascript.com/)  | [<img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" width="70">](https://www.javascript.com/)  | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" width="70">](https://www.javascript.com/)  | [<img src="https://www.mabl.com/hubfs/CICDBlog.png" width="70">](https://www.javascript.com/)  | [<img src="https://seeklogo.com/images/A/adobe-photoshop-logo-7B88D7B5AA-seeklogo.com.png" width="70">](https://www.javascript.com/)  |
-|---|---|---|---|---|
+| [<img src="https://raw.githubusercontent.com/guiguan/autocomplete-javascript/master/images/javascript.png" width="70">](https://www.javascript.com/) | [<img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" width="70">](https://www.javascript.com/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" width="70">](https://www.javascript.com/) | [<img src="https://www.mabl.com/hubfs/CICDBlog.png" width="70">](https://www.javascript.com/) | [<img src="https://seeklogo.com/images/A/adobe-photoshop-logo-7B88D7B5AA-seeklogo.com.png" width="70">](https://www.javascript.com/) |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 
 - Libraries and Frameworks
 
-|  [<img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" alt="c logo" width="70">](https://www.php.net/) |  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="go logo" width="70">](https://isocpp.org/)  |  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="c logo" width="70">](https://kotlinlang.org/) |  [<img src="https://i.pinimg.com/originals/c6/67/ea/c667ea8efad5a59c560b40e76d590104.png" alt="c logo" width="70">](https://spring.io/) |  [<img src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" alt="c logo" width="70">](https://spring.io/)
-|---|---|---|---|---|
+| [<img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" alt="c logo" width="70">](https://www.php.net/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="go logo" width="70">](https://isocpp.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="c logo" width="70">](https://kotlinlang.org/) | [<img src="https://i.pinimg.com/originals/c6/67/ea/c667ea8efad5a59c560b40e76d590104.png" alt="c logo" width="70">](https://spring.io/) | [<img src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" alt="c logo" width="70">](https://spring.io/) |
+| --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 
-<details>
-<summary>Experience</summary>
+<!-- <details> -->
 
-|  [<img src="https://cdn.cookielaw.org/logos/03fc55fe-0057-4b2f-817d-763e7ecdb316/ad0fee7c-eecb-4e6d-b90f-8b6ca3a1e95c/cisco-logo-transparent.png" alt="c logo" width="70">](https://www.php.net/) |  [<img src="https://www.prn.com/wp-content/uploads/PRN_StratacacheLogo.png" alt="go logo" width="70">](https://isocpp.org/)  |  [<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/z6zk3ouxobq1tybndm47" alt="c logo" width="70">](https://kotlinlang.org/) |  [<img src="https://diversitymbamagazine.com/wp-content/uploads/2020/08/JP-Morgan-Chase-Logo.png" alt="c logo" width="70">](https://spring.io/) |  [<img src="https://rismedia.com/wp-content/uploads/2019/02/Rocket_Mortgage.jpg" alt="c logo" width="70">](https://spring.io/)
-|---|---|---|---|---|
-</details>
+- Experience
+
+| [<img src="https://cdn.cookielaw.org/logos/03fc55fe-0057-4b2f-817d-763e7ecdb316/ad0fee7c-eecb-4e6d-b90f-8b6ca3a1e95c/cisco-logo-transparent.png" alt="c logo" width="70">](https://www.php.net/) | [<img src="https://www.prn.com/wp-content/uploads/PRN_StratacacheLogo.png" alt="go logo" width="70">](https://isocpp.org/) | [<img src="https://cf-assets.s3.amazonaws.com/stratacachelogo-1-wBD.png" alt="c logo" width="70">](https://kotlinlang.org/) | [<img src="https://diversitymbamagazine.com/wp-content/uploads/2020/08/JP-Morgan-Chase-Logo.png" alt="c logo" width="70">](https://spring.io/) | [<img src="https://rismedia.com/wp-content/uploads/2019/02/Rocket_Mortgage.jpg" alt="c logo" width="70">](https://spring.io/) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+
+<!-- </details> -->
 
 ### Stats
 
@@ -42,7 +44,6 @@ My name is Sukhesh Gopaluni, a senior full-stack engineer, creative coder and se
 <a href="mailto:brorie3@uncc.edu">
     <img alt="Sukhesh Gopaluni | Gmail" width="50px" src="https://uploads-ssl.webflow.com/5ad4c302a9ea3372eaea975f/5b995a276460dc98cf54bd11_Gmail.png" />
 </a>
-
 
 ## 💼 Skills
 
